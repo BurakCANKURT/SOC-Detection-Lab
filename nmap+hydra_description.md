@@ -1,6 +1,6 @@
 # Nmap + Hydra Brute Force - Description
 
-**Date:** 2026-11-08
+**Date:** 2026-11-09
 **Analyst:** Burak CANKURT
 **Lab:** Home-Lab (Wazuh)
 **Severity:** High
